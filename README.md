@@ -1,6 +1,6 @@
 # Big-Mart-Sales
 Using this model, I will try to understand the properties of products and stores which play a key role in increasing sales. And this contest held on Analytics vidya.
-We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
+This problem contained train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
 
  
 
